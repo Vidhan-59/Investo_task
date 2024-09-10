@@ -21,5 +21,5 @@ This project performs data analysis on stock market data for a specific ticker s
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Vidhan-59/Investo_task.git
+   cd Investo_task
